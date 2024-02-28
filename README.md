@@ -1,7 +1,7 @@
 ### Hello, I'm Patrick Sampaio 🤟
 
 
-![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=tokyonight)
+![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSampa)](https://github.com/anuraghazra/github-readme-stats)
 
