@@ -57,7 +57,7 @@
     alt="PatrickSampa's readme streaks" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSampa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que eu uso no meu dia
 
