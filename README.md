@@ -1,4 +1,14 @@
-### Hello, I'm Patrick Sampaio 🤟
+<h1 align="center">
+  Hi there, I'm patrick
+  <img 
+    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+    width="30px">
+  <br />
+  Welcome to my Profile!!!
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael"
+    alt="visitors">
+</h1>
 
 
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=dracula&show_icons=true)
