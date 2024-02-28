@@ -5,9 +5,6 @@
     width="30px">
   <br />
   Welcome to my Profile!!!
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael"
-    alt="visitors">
 </h1>
 
 
