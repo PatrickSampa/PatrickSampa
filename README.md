@@ -19,6 +19,17 @@
   <br />
 </p>
 
+<div>
+  <h3>
+    📬 Connect with me:
+  </h3>
+  <br />
+  <a href="https://www.linkedin.com/in/patrick-sampaio-111609230/">
+    <img 
+      src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
+      alt="linked-in">
+  </a>
+</div>
 
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=dracula&show_icons=true)
 
