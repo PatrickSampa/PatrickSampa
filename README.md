@@ -32,6 +32,8 @@
 </div>
 
 <br />
+
+<h2>📈 <strong>My GitHub Stats:</strong></h2>
  
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=dracula&show_icons=true)
 
