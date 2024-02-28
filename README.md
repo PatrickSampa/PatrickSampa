@@ -31,6 +31,7 @@
   </a>
 </div>
 
+
 <br />
 
 <h2>📈 <strong>My GitHub Stats:</strong></h2>
@@ -46,6 +47,14 @@
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSampa&theme=dracula&layout=compact" 
     alt="PatrickSampa" />
+</div>
+
+<div align="center">
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickSampa&theme=dracula&hide_border=false" 
+    alt="PatrickSampa's readme streaks" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSampa)](https://github.com/anuraghazra/github-readme-stats)
