@@ -7,6 +7,18 @@
   Welcome to my Profile!!!
 </h1>
 
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
+
+<p>
+  <br />
+  <br />
+</p>
+
 
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=dracula&show_icons=true)
 
