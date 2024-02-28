@@ -35,11 +35,18 @@
 
 <h2>📈 <strong>My GitHub Stats:</strong></h2>
  
-<img 
+<div align="center">
+  <img 
     width="400" 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=PatrickSampa&theme=dracula&show_icons=true" 
     alt="PatrickSampa"/>
+  <img 
+    width="400" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSampa&theme=dracula&layout=compact" 
+    alt="PatrickSampa" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSampa)](https://github.com/anuraghazra/github-readme-stats)
 
