@@ -58,7 +58,7 @@
 </div>
 
 
-h2 align="center">🚀 <strong>Skills</strong></h2>
+<h2 align="center">🚀 <strong>Skills</strong></h2>
 
 <div style="display: online_block"><br/>
     <img align="center" lt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
