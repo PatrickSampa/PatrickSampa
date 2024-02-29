@@ -79,6 +79,26 @@
 </div>
 
 <br/>
+<h2 align="center">🖥️ Workspace Setup</h2>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" 
+    alt="i5">
+  <img 
+    src="https://img.shields.io/badge/32GB-RAM-0071C5?style=for-the-badge&amp;logo=memoria-ram&amp;logoColor=white" 
+    alt="16GB RAM">
+  <img 
+    src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" 
+    alt="rx-6600">
+  <img 
+    src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" 
+    alt="ubuntu 21.10">
+  <img 
+    src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" 
+    alt="vs-code">
+</div>
+
+<br/>
 
 <h2 align="center">🚀 <strong>Skills</strong></h2>
 
