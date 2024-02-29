@@ -141,6 +141,9 @@
   <img 
     src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" 
     alt="sequelize">
+  <img 
+    src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" 
+    alt="prisma">
 </div>
 
 
