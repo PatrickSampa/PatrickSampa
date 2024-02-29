@@ -34,7 +34,7 @@
 
 <br />
 
-<h2>📈 <strong>My GitHub Stats:</strong></h2>
+<h2 align="center">📈 <strong>My GitHub Stats</strong></h2>
  
 <div align="center">
   <img 
