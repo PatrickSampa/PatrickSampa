@@ -57,6 +57,28 @@
     alt="PatrickSampa's readme streaks" />
 </div>
 
+<br/>
+
+<h3>🛠️ Tools and Environments</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git" />
+  <img 
+    src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" 
+    alt="NPM" />
+  <img 
+    src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" 
+    alt="Yarn" />
+  <img 
+    src="https://img.shields.io/badge/babel-FCDF3F.svg?style=for-the-badge&logo=babel&logoColor=white" 
+    alt="Babel" />
+  <img 
+    src="https://img.shields.io/badge/webpack-2C8EBB.svg?style=for-the-badge&logo=webpack&logoColor=white" 
+    alt="Webpack" />
+</div>
+
+<br/>
 
 <h2 align="center">🚀 <strong>Skills</strong></h2>
 
