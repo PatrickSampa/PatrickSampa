@@ -120,6 +120,27 @@
   <img 
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
     alt="java">
+  <img 
+    src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" 
+    alt="go">
+  <img 
+    src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
+    alt="express">
+  <img 
+    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
+    alt="spring">
+  <img 
+    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+    alt="mysql">
+  <img 
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
+    alt="postgree">
+  <img 
+    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" 
+    alt="sqlite">
+  <img 
+    src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" 
+    alt="sequelize">
 </div>
 
 
