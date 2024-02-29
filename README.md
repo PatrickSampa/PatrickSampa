@@ -106,5 +106,20 @@
     alt="bootstrap">
 </div>
 
+<br />
+<br />
+
+<h3>🖥️ Back-End</h3>
+<div>
+  <img 
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
+    alt="node">
+  <img 
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
+    alt="ts">
+  <img 
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
+    alt="java">
+</div>
 
 
