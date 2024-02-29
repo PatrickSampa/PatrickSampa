@@ -59,7 +59,7 @@
 
 <br/>
 
-<h3>🛠️ Tools and Environments</h3>
+<h2 align="center">🛠️ Tools and Environments</h3>
 <div>
   <img 
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
